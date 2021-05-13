@@ -2,5 +2,4 @@
 
 TrueHome
 
-Para esta prueba técnica se trabajaráprincipalmente con Python y sus diversas librerías.
-
+Para esta prueba técnica se trabajará principalmente con Python y sus diversas librerías.
